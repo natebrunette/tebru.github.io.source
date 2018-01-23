@@ -1,0 +1,35 @@
+# Header
+menu:
+  Home: /
+  About: /about
+rss: ~
+github: https://github.com/tebru
+logo_title: ~
+blog_title: NA.TEBRU.NET
+
+# Content
+excerpt_link: Read More
+fancybox: true
+mathjax: false
+
+# Sidebar
+sidebar: right
+widgets:
+- recent_posts
+- tag
+- archive
+
+# Miscellaneous
+wx_block: false
+google_analytics:
+favicon:
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+# Duoshuo
+duoshuo_shortname:
+
+# Swiftype Search
+swiftype_key:
